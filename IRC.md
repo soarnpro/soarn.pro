@@ -1,1 +1,1 @@
-# Chat on [IRC](https://www.chew.chat)!
+# Chat on [IRC](https://chew.chat)!
