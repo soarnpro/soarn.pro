@@ -1,2 +1,4 @@
 # Chat on [IRC](https://chew.chat)!
-##### hey notifico work?
+
+## I use IRC instead of Discord!
+### Mainly because it's so much better.
