@@ -4,4 +4,4 @@
 ##### Try to bypass my hightech security system I dare you.
 |Other Places on the Site  |
 | ------------- |
-| [POTD](https://www.soarn.pro/POTD)|
+| [POTD](https://www.soarn.pro/POTD) |
