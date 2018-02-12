@@ -5,4 +5,4 @@
 
 |Other Places on the Site |
 | ------------- |
-| [POTD](https://www.soarn.pro/POTD) |
+| [POTD](https://soarn.pro/POTD) |
