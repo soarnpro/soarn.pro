@@ -1,7 +1,9 @@
-# Chat on [IRC](https://chew.chat)!
+# ~~Chat on [IRC](https://chew.chat)!~~
 
-## I use IRC instead of Discord!
-### Mainly because it's so much better.
+## ~~I use IRC instead of Discord!~~
+### ~~Mainly because it's so much better.~~
+
+# **If you need to contact me, use [Twitter](https://twitter.com/soarnpro)
 
 
 
