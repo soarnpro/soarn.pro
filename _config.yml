@@ -5,3 +5,4 @@ google_analytics: UA-114243378-1
 # Plugins
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
