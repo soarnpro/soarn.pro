@@ -1,0 +1,7 @@
+---
+layout: redirected
+sitemap: false
+permalink: /oldlocation/
+redirect_to:  /newlocation/
+---
+PLACE THIS FILE IN /root/!!! DO NOT KEEP IN /_layouts/ ONLY STORED HERE FOR FUTURE REFERENCE
