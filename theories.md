@@ -1,0 +1,1 @@
+![](/evidence-big-bang.png)
