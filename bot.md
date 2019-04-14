@@ -1,13 +1,9 @@
 ---
-title: soarn.pro Discord bot!
+title: yeet
 ---
-<html>
-<head>
 <title>
   {{ page.title }}
 </title>
-</head>
-</html>
 
 # Learn about the soarn.pro discord bot!
 ---
