@@ -1,5 +1,5 @@
 ---
-title: yeet
+title: Discord bot!
 ---
 <title>
   {{ page.title }}
