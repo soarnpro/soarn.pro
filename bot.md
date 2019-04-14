@@ -1,9 +1,13 @@
+---
+title: soarn.pro Discord bot!
+---
 <html>
-  <head>
-    <title>Learn about the soarn.pro discord bot!</title>
-  </head>
+<head>
+<title>
+  {{ page.title }}
+</title>
+</head>
 </html>
-
 
 # Learn about the soarn.pro discord bot!
 ---
