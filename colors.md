@@ -1,3 +1,10 @@
+---
+title: Kraid's Role Colors
+---
+<title>
+  {{ page.title }}
+</title>
+
 # <font color="#ff46e8">#ff46e8 - Base Color</font>
 ---
 # Neutral Shades
