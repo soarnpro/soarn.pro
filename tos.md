@@ -1,6 +1,6 @@
 ---
 title: Against our ToS!
-tagline: [](https://twitter.com/discordapp/status/908000828690182145)
+tagline: ![](https://twitter.com/discordapp/status/908000828690182145)
 ---
 
 <title>
