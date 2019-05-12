@@ -1,5 +1,5 @@
 ---
-title: soarn.pro discord bot - Error 301
+title: soarn.pro discord bot
 ---
 <!DOCTYPE html>
 <html>
