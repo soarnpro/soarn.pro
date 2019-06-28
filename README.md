@@ -1,4 +1,5 @@
 ---
+title: soarn.pro
 description: Home Page
 author: Jack
 image: /favicon.ico
