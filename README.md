@@ -1,3 +1,9 @@
+---
+description: Home Page
+author: Jack
+image: /favicon.ico
+---
+
 # [soarn.pro](soarn.pro)
 
 ## Hey! You found my website! Good on you, stay tuned for updates.
