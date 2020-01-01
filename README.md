@@ -1,6 +1,6 @@
 # [soarn.pro](soarn.pro)
 
-There is a lot going on here.  Mainly, a bunch of subdomains.~~, I'll add a list soon.~~
+There is a lot going on here.  Mainly, a bunch of subdomains~~, I'll add a list soon~~.
 
 ## [s.soarn.pro](s.soarn.pro)
 
