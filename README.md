@@ -1,6 +1,3 @@
----
-# image: /icons/favicon-194x194.png
----
 # [soarn.pro](soarn.pro)
 
 There is a lot going on here.  Mainly, a bunch of subdomains.~~, I'll add a list soon.~~
