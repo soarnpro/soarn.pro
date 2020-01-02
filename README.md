@@ -1,4 +1,4 @@
-<h1 id="soarnpro"><a href="soarn.pro" class="btn">soarn.pro</a></h1>
+# [soarn.pro](soarn.pro)
 
 There is a lot going on here.  Mainly, a bunch of subdomains~~, I'll add a list soon~~.
 
