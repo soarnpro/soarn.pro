@@ -5,3 +5,4 @@ permalink: /oldlocation/
 redirect_to:  /newlocation/
 ---
 PLACE THIS FILE IN /root/!!! DO NOT KEEP IN /_layouts/ ONLY STORED HERE FOR FUTURE REFERENCE
+In order to use a redirected layout, add the above YAML front matter to the YAML front matter of an HTML file.
