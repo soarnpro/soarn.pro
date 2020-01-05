@@ -20,3 +20,5 @@ There is a lot going on here.  Mainly, a bunch of subdomains~~, I'll add a list 
 ## [dotfiles.soarn.pro](dotfiles.soarn.pro)
 
 ## [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5XEJE)
+
+<iframe src="https://open.spotify.com/embed/playlist/7J0GcRLzNmcoCtOKFhKoz8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
