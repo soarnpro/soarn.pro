@@ -13,6 +13,8 @@
 
 There is a lot going on here.  Mainly, a bunch of subdomains~~, I'll add a list soon~~.
 
+<a rel="me" href="https://mas.to/@soarn">Mastodon</a>
+
 ## [s.soarn.pro](https://s.soarn.pro)
 
 ## [dotfiles.soarn.pro](https://dotfiles.soarn.pro)
