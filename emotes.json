@@ -1,0 +1,16 @@
+[{
+  "url": "https://camo.githubusercontent.com/8c3727b5b0d601d8f08ac0edb109d0acbed7b1c2/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3539363834373431373838323730353933392e6769663f73697a653d3332",
+  "labels": "gif animated maybe",
+  "license": "?",
+  "name": "jack_amaybe"
+}, {
+    "url": "https://camo.githubusercontent.com/3d7166274c5b9e2f499f8d3b47d8d000ece0e03b/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3539363138353738323537383937303632352e6769663f73697a653d3332",
+    "labels": "gif animated yes",
+    "license": "?",
+    "name": "jack_ayes"
+}, {
+    "url": "https://camo.githubusercontent.com/192f0e7f84900cabb451e583ec5a8dc3871968c5/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3539363138353731303435333538373939382e6769663f73697a653d3332",
+    "labels": "gif animated no",
+    "license": "?",
+    "name": "jack_ano"
+}]
