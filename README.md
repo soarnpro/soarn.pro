@@ -11,7 +11,7 @@
     <meta property="og:image:alt" content="soarn.pro logo" />
 </head>
 
-There is a lot more going on here than meets the eye.
+There's  a lot more going on here than meets the eye.
 <a rel="me" href="https://mas.to/@soarn">Mastodon</a>
 
 ## [s.soarn.pro](https://s.soarn.pro)
