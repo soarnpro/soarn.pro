@@ -12,6 +12,9 @@
 </head>
 
 There's  a lot more going on here than meets the eye.
+
+## GPG Keys coming soon:tm:!
+
 <a rel="me" href="https://mas.to/@soarn">Mastodon</a>
 
 ## [s.soarn.pro](https://s.soarn.pro)
