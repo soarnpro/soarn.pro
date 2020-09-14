@@ -1,0 +1,142 @@
+---
+layout: blank
+---
+
+<html>
+<head>
+  <meta content="text/html; charset=utf-8"
+        http-equiv="Content-type">
+  <meta content="default-src 'self'; style-src 'unsafe-inline'; img-src 'self'; connect-src 'self'; media-src https://s.soarn.pro/"
+        http-equiv="Content-Security-Policy">
+  <title>Page not found &middot; soarn.pro</title>
+  <style media="screen"
+         type="text/css">
+      body {
+        background-color: #ffffff;
+        margin: 0;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+      .container {
+        margin: 50px auto 40px auto;
+        width: 600px;
+        text-align: center;
+       }
+
+      a { color: #4183c4; text-decoration: none; }
+      a:hover { text-decoration: underline; }
+
+      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
+      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
+
+      ul { list-style: none; margin: 25px 0; padding: 0; }
+      li { display: table-cell; font-weight: bold; width: 1%; }
+
+      .logo { display: inline-block; margin-top: 35px; }
+      .logo-img-2x { display: none; }
+      @media
+      only screen and (-webkit-min-device-pixel-ratio: 2),
+      only screen and (   min--moz-device-pixel-ratio: 2),
+      only screen and (     -o-min-device-pixel-ratio: 2/1),
+      only screen and (        min-device-pixel-ratio: 2),
+      only screen and (                min-resolution: 192dpi),
+      only screen and (                min-resolution: 2dppx) {
+        .logo-img-1x { display: none; }
+        .logo-img-2x { display: inline-block; }
+      }
+      #status {
+        margin-top: 35px;
+        color: #ccc;
+      }
+      #status a {
+        color: #000000;
+        font-weight: 200;
+        font-size: 14px;
+        margin: 0 10px;
+      }
+      #social {
+        margin-top: 35px;
+        color: #ccc;
+      }
+      #social a {
+        color: #000000;
+        font-weight: 200;
+        font-size: 14px;
+        margin: 0 10px;
+      }
+  #Vtext {
+    position: relative;
+  }
+  #Vtext div, #Vtext video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  .background-video {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+ /* bring your own prefixes */
+ transform: translate(-50%, -50%);
+}
+ video {
+  height: 720;
+  vertical-align: middle;
+  width: 1280;
+}
+/* video {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translateX(calc((100% - 100vw) / 2));
+} */
+  .overlay-desc {
+  background: rgba(0,0,0,0);
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+  </style>
+</head>
+<body>
+    <div class="background-video">
+      <!--The video-->
+      <video autoplay=""
+           height="720"
+           id="myVideo"
+           loop=""
+           muted=""
+           width="1280"><source src="https://s.soarn.pro/img/14a.mp4"
+              type="video/mp4"></video>
+      <div class="overlay-desc">
+        <div class="container">
+          <h1>404</h1>
+          <p><strong>File not found</strong></p>
+          <p>The site configured at this address does not contain the requested file.</p>
+          <div id="status">
+            <a href="https://githubstatus.com">GitHub Status</a> &mdash; <a href="https://twitter.com/githubstatus">@githubstatus</a>
+          </div>
+          <div id="social">
+            <a href="https://twitter.com/soarnpro">Twitter</a> &mdash; <a href="https://steamcommunity.com/id/saorn/">Steam</a>
+          </div>
+        </div>
+        <a class="logo logo-img-1x"
+          href="https://soarn.pro/"><img alt=""
+          height="32"
+          src="/icons/favicon-32x32.png"
+          title=""
+          width="32"></a> <a class="logo logo-img-2x"
+          href="https://soarn.pro/"><img alt=""
+          height="16"
+          src="/icons/favicon-16x16.png"
+          title=""
+          width="16"></a>
+      </div>
+    </div>
+  </body>
+</html>
