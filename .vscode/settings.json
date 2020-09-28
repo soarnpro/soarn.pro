@@ -1,5 +1,9 @@
 {
     "files.exclude": {
         "**/.git": false
-    }
+    },
+    "cSpell.words": [
+        "Vtext",
+        "githubstatus"
+    ]
 }
