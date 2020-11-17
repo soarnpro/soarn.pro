@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: soarn.pro
+Token: bea96e32b9fdaa707ae9dcac53f571d2dc83083bba1bf90129d2eba42eb9e064
