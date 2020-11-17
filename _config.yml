@@ -16,3 +16,4 @@ twitter:
 logo: /favicon.ico
 image: /icons/favicon-194x194.png
 include: .well-known
+timezone: America/Phoenix
