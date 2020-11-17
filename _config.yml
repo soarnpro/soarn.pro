@@ -15,3 +15,4 @@ twitter:
   card: summary
 logo: /favicon.ico
 image: /icons/favicon-194x194.png
+include: .well-known
