@@ -11,6 +11,8 @@
     <meta property="og:image:alt" content="soarn.pro logo" />
 </head>
 
+## [snake](https://soarn.pro/html5-snake.html)
+
 There's  a lot more going on here than meets the eye.
 
 ## GPG Keys coming soon:tm:!
