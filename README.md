@@ -9,6 +9,8 @@
     <meta property="og:url" content="https://soarn.pro" />
     <meta property="og:type" content="website" />
     <meta property="og:image:alt" content="soarn.pro logo" />
+<!-- Enable analytics with usami -->
+    <script async src="https://mono.soarn.dev/script.js" data-website-id="706c706a-c1c5-46fe-9a7b-379afd3a9418"></script>
 </head>
 
 ## [snake](https://soarn.pro/html5-snake.html)
