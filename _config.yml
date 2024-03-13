@@ -1,4 +1,4 @@
-description: Thanks for pinging me.
+description: Archived repository of the original soarn.pro website. 
 # Theme
 theme: jekyll-theme-cayman
 # Google Analytics
@@ -10,9 +10,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-to
 # SEO Tag
-twitter:
-  username: soarnpro
-  card: summary
 logo: /favicon.ico
 image: /icons/favicon-194x194.png
 include: .well-known
